@@ -1,4 +1,8 @@
 # FUSE on GKE Sample
+Use [gscfuse](https://github.com/GoogleCloudPlatform/gcsfuse/) on GKE example.
+
+## Reference
+* [GKEでCloud Storageをマウントしてみる - Toku's Blog](https://www.sce-toku.jp/blog/2016/12/03/k8s-gcsfuse/)
 
 ## Enable application credential
 
